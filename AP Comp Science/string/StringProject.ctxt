@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ stringInput()
+comment1.text=\r\n\ \ \ stringInput\ allows\ a\ user\ to\ enter\ words,\ or\ "DONE"\ to\ stop\r\n\ \ \ The\ method\ will\ keep\ track\ of\ the\ total\ words\ entered,\ the\ longest\ and\ shortest\ word\ entered\r\n\ \ \ @param\:\ input\ -\ nothing\r\n\ \ \ @param\:\ return\ -\ nothing\r\n
+comment2.params=name
+comment2.target=void\ printFirstLast(java.lang.String)
+comment2.text=\r\n\ \ \ printFirstLast\ \u2013\ prints\ out\ (to\ the\ screen)\ a\ name\ with\ the\ first\ name\ then\ the\ last\ name\r\n\ \ \ @param\:\ input\ \u2013\ String\ \=\ name\ as\ lastname,firstname\ or\ any\ other\ for\r\n\ \ \ @param\:return\ \u2013\ nothing\r\n
+comment3.params=str
+comment3.target=java.lang.String\ numOccurences(java.lang.String)
+comment3.text=\r\n\ \ \ numOccurences\ \u2013\ creates\ a\ word\ with\ the\ first\ occurrence\ of\ each\ letter\ in\ the\ work\r\n\ \ \ @param\:\ input\ \u2013\ String\ \=\ any\ wor\ (length\ >0)\r\n\ \ \ @param\:return\ \u2013\ String\ \=\ first\ occurrence\ of\ each\ letter\r\n
+numComments=4

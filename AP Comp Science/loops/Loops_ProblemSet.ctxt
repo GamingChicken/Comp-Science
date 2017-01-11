@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ MultiplicationTable()
+comment2.params=amount\ rate\ years
+comment2.target=void\ Cumulate(int,\ double,\ int)
+comment3.params=
+comment3.target=void\ SquaresCubes()
+comment4.params=
+comment4.target=void\ Lotto()
+comment5.params=
+comment5.target=void\ CoinToss()
+comment6.params=
+comment6.target=void\ DiceToss()
+comment7.params=n
+comment7.target=boolean\ isPerfect(int)
+comment8.params=
+comment8.target=void\ perfectNum()
+numComments=9

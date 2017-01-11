@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=grade
+comment1.target=void\ numericToLetter(int)
+comment2.params=grade
+comment2.target=void\ letterToNumberic(java.lang.String)
+comment3.params=year
+comment3.target=void\ leapYear(int)
+comment4.params=one\ two\ three
+comment4.target=void\ triangle(int,\ int,\ int)
+comment5.params=year
+comment5.target=void\ easter(int)
+comment6.params=hours\ pay
+comment6.target=void\ payroll(double,\ double)
+comment7.params=salary
+comment7.target=void\ incomeTax(double)
+comment8.params=status\ income
+comment8.target=void\ irsTax(java.lang.String,\ double)
+numComments=9
